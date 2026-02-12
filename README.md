@@ -96,6 +96,7 @@ The easiest way to get your PymBoard 2x4 running is to use the pre-compiled firm
 3. The XIAO will automatically reboot with the new firmware
 
 ## Using VIAL
+<img alt="vial.rocks interface" src="https://github.com/user-attachments/assets/b70554ca-ea99-4893-9fb6-86d80511a33c" />
 
 1. Download VIAL from https://get.vial.today or open https://vial.rocks
 2. Connect your macropad
